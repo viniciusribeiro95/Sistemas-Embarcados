@@ -1,30 +1,37 @@
 Aula 1 - 15/08/2018
 
-#Resposta Quest„o 1
-Pergunta: O que s„o sistemas embarcados?
+#Resposta Quest√£o 1
+Pergunta: O que s√£o sistemas embarcados?
 
-Sistemas embarcados s„o sistemas microprocessados onde um computador È encapsulado, com o objetivo de ser dedicado ao dispositivo ou sistema que visa controlar, de forma simplificada, s„o sistemas com um hardware e um software dedicados exclusivamente a uma operaÁ„o somente.
+Sistemas embarcados s√£o sistemas microprocessados onde um computador √© encapsulado, com o objetivo de ser dedicado ao dispositivo ou sistema que visa controlar, de forma simplificada, s√£o sistemas com um hardware e um software dedicados exclusivamente a uma opera√ß√£o somente.
 
-#Resposta Quest„o 2
-Pergunta: O que s„o sistemas microprocessados?
+#Resposta Quest√£o 2
+Pergunta: O que s√£o sistemas microprocessados?
 
-Microprocessadores s„o dispositivos lÛgicos programaveis, s„o sistemas integrados que realizam os c·lculos, armazenam memÛria, executando operaÁıes aritmÈticas, e tomadas de decisıes de um computador, permitindo a comunicaÁ„o com outros dispositivos perifÈricos.
+Microprocessadores s√£o dispositivos l√≥gicos programaveis, s√£o sistemas integrados que realizam os c√°lculos, armazenam mem√≥ria, executando opera√ß√µes aritm√©ticas, e tomadas de decis√µes de um computador, permitindo a comunica√ß√£o com outros dispositivos perif√©ricos.
 
-#Resposta Quest„o 3
+#Resposta Quest√£o 3
   #Letra A
 
-Algumas das aplicaÁıes de sistemas embarcados para o setor automotivo s„o: os sistemas de GPS e navegaÁ„o, alarmes, controle de trasmiss„o, controle de traÁ„o, painel de instrumentos, sistemas em tempo real como freios ABS e Air Bag.
+Algumas das aplica√ß√µes de sistemas embarcados para o setor automotivo s√£o: os sistemas de GPS e navega√ß√£o, alarmes, controle de trasmiss√£o, controle de tra√ß√£o, painel de instrumentos, sistemas em tempo real como freios ABS e Air Bag.
 
   #Letra B
   
-Alguns eletrodomÈsticos possuem sistemas embarcados, como alguns modelos de geladeiras, microondas, e cafeteiras mais modernos, smart TV's, videogames, celulares, entre outros.
+Alguns eletrodom√©sticos possuem sistemas embarcados, como alguns modelos de geladeiras, microondas, e cafeteiras mais modernos, smart TV's, videogames, celulares, entre outros.
 
   #Letra C
  
- Na automaÁ„o indutrial, sistemas embarcados s„o utilizados no controle de estoque, na avaliaÁ„o do funcionamento da cadeia produtiva, em acionamentos elÈtricos (Soft-Start, inversor de frequÍncia...), monitoramento remoto de processos e m·quinas.
+ Na automa√ß√£o indutrial, sistemas embarcados s√£o utilizados no controle de estoque, na avalia√ß√£o do funcionamento da cadeia produtiva, em acionamentos el√©tricos (Soft-Start, inversor de frequ√™ncia...), monitoramento remoto de processos e m√°quinas.
  
- #Resposta Quest„o 4
- Pergunta: Cite arquiteturas possÌveis e as diferenÁas entre elas.
+ #Resposta Quest√£o 4
+ Pergunta: Cite arquiteturas poss√≠veis e as diferen√ßas entre elas.
  
- As arquiteturas possÌvveis s„o a x64, e a x86. A diferenÁa entre as mesmas, È que a de x64 È em 32 bits, enquanto que a x86 È em 64 bits.
+ Os tipos de arquitetura do tipo PICs, Intel 805 I e ARM 9, permite a leitura simultanea dos dados e do programa, permite barramento de dados e programa separadamente otimizados e ainda guarda dados constantes na memoria do programa, requerendo instrumenta√ß√£o especifica. Ja os tipos de arquitetura de memoria MSP430, Freesclae HCS08 e ARM 7, s√£o mais simples que a arquitetura Havard, sendo tamb√©m menos eficientes.
+ 
+#Resposta Quest√£o 5
+Pergunta: Por que usamos o Raspberry Pi na disciplina, ao inv√©s de outro system-on-chip?
+
+ Devido √† quantidade de possibilidades que esse microprocessador permite, o Pi √© um computador nu - √© basicamente uma 
+placa-m√£e enxuta - mas tem um n√∫mero surpreendente de recursos que os computadores mais modernos t√™m, incluindo uma 
+porta HDMI, portas USB, v√≠deo e √°udio, e pode ser ligado a um televisor ou computador port√°til (entre outras coisas).
  
